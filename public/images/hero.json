@@ -1,0 +1,17 @@
+[
+    {
+        "img":"./1.jpg",
+        "title": "Step into Style with the Latest Fashion Trends",
+        "desc": "Discover our collection of trendy clothing and accessories designed to elevate your wardrobe. Whether you're looking for casual wear, formal outfits, or statement pieces, we’ve got you covered. Shop now to stay ahead of the fashion curve."
+    },
+    {
+        "img":"./2.jpg",
+        "title": "Explore Cutting-Edge Tech for Everyday Life",
+        "desc": "From smartphones to smart home devices, our electronics collection brings innovation right to your fingertips. Browse the latest gadgets and upgrade your tech game with unbeatable deals on high-performance products."
+    },
+    {
+        "img":"./3.jpg",
+        "title": "Transform Your Home into a Haven",
+        "desc": "Explore our range of home essentials designed for style, comfort, and functionality. Whether you’re upgrading your kitchen, redecorating your living space, or looking for smart solutions, our collection has everything you need."
+    }
+]

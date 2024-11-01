@@ -1,0 +1,32 @@
+[
+    {
+        "img":"/images/featured/1.jpg",
+        "title":"T-shirt",
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque aspernatur necessitatibus error distinctio eveniet aliquid"
+    },
+    {
+        "img":"/images/featured/2.jpg",
+        "title":"T-shirt",
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque aspernatur necessitatibus error distinctio eveniet aliquid"
+    },
+    {
+        "img":"/images/featured/3.jpg",
+        "title":"Neckless",
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque aspernatur necessitatibus error distinctio eveniet aliquid"
+    },
+    {
+        "img":"/images/featured/4.jpg",
+        "title":"T-shirt",
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque aspernatur necessitatibus error distinctio eveniet aliquid"
+    },
+    {
+        "img":"/images/featured/5.jpg",
+        "title":"Bracelet",
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque aspernatur necessitatibus error distinctio eveniet aliquid"
+    },
+    {
+        "img":"/images/featured/6.jpg",
+        "title":"I-Phone",
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque aspernatur necessitatibus error distinctio eveniet aliquid"
+    }
+]
